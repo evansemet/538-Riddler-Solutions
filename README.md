@@ -1,2 +1,3 @@
-# 538-Solutions
-Collection of solutions to the 538 Puzzles
+# 538 Riddler Solutions
+Collection of solutions to the 538 Riddler Puzzles
+link: https://fivethirtyeight.com/tag/the-riddler/
